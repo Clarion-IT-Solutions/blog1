@@ -1,2 +1,2 @@
-# blog1
+# blogTemplate
 second blog template
